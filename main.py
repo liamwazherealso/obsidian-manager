@@ -1,8 +1,8 @@
 import shutil
 
-BASE_PATH = "/home/lpieri/Dropbox/notes/"
-LAST_WEEK_PATH = BASE_PATH + "2022-09-25.md"
-CURR_WEEK_PATH = BASE_PATH + "2022-11-20.md"
+BASE_PATH = "/Users/lpieri/Dropbox/notes/"
+LAST_WEEK_PATH = BASE_PATH + "2022-11-20.md"
+CURR_WEEK_PATH = BASE_PATH + "2022-12-11.md"
 LAST_WEEK_PATH_TMP = LAST_WEEK_PATH + ".tmp"
 
 with open(LAST_WEEK_PATH) as f:
